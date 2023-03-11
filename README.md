@@ -1,6 +1,5 @@
-
-<h3>공부한 기술을 실제 현업에서 적용시켜보고 싶고 웹 백엔드 전문가로 성장하고 싶습니다.</h3>
-
+<h1>웹 백엔드 전문가로 성장하고 싶습니다.</h1>
+<br>
 <h2>✏️ skills</h2>
 <div height="30px"></div>
 <code><img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=JAVA&logoColor=white"/></code>
@@ -14,7 +13,7 @@
 <code><img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></code>
-
+<br>
 <h2>포트폴리오</h2>
   
 <h2>1. ApplePicker</h2>
@@ -38,6 +37,7 @@ URL: https://github.com/moorin/ApplePicker2
 
 <h2>2. Character Introduction(캐릭터 소개 페이지)</h2>
 URL: https://github.com/hyerin10/Character-Introduction
+     http://moostar.dothome.co.kr/character_page.php?num=1
 <h4>핵심 기능</h4>
 <ul>
   <li>캐릭터 시트 생성, 추가, 삭제, 수정</li>
