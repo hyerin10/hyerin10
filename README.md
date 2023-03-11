@@ -38,7 +38,8 @@ URL: https://github.com/moorin/ApplePicker2
 
 <h2>2. Character Introduction(캐릭터 소개 페이지)</h2>
 URL: https://github.com/hyerin10/Character-Introduction
-     http://moostar.dothome.co.kr/character_page.php?num=1
+<br>
+URL: http://moostar.dothome.co.kr/character_page.php?num=1
 <h4>핵심 기능</h4>
 <ul>
   <li>캐릭터 시트 생성, 추가, 삭제, 수정</li>
