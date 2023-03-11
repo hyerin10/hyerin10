@@ -1,5 +1,4 @@
 <h1>웹 백엔드 전문가로 성장하고 싶습니다.</h1>
-<br>
 <h2>✏️ skills</h2>
 <div height="30px"></div>
 <code><img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=JAVA&logoColor=white"/></code>
@@ -14,7 +13,9 @@
 <code><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></code>
 <br>
-<h2>포트폴리오</h2>
+<br>
+<br>
+<h1>포트폴리오</h1>
   
 <h2>1. ApplePicker</h2>
 URL: https://github.com/moorin/ApplePicker2
