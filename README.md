@@ -1,4 +1,3 @@
-<h1>Java 전문가로 성장하고 싶습니다.</h1>
 <h2>✏️ skills</h2>
 <div height="30px"></div>
 <code><img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=JAVA&logoColor=white"/></code>
