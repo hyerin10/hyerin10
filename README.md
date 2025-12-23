@@ -13,7 +13,7 @@
 ## 🛠️ TECH STACK
 
 ### Framework & Language
-- Spring Boot / Spring Security
+- Spring Boot / Spring Security / JPA
 - Java
 - RESTful API
 
