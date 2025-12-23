@@ -10,11 +10,9 @@
 | 사용자 인증 필요 | OAuth2.0 적용 | 안전한 인증 체계 |
 | 수동 배포의 리스크 | GitHub Actions | 자동 빌드 및 배포 파이프라인 |
 
----
-
 ## 🛠️ TECH STACK
 
-### Backend & Framework
+### Framework & Language
 - Spring Boot / Spring Security
 - Java
 - RESTful API
@@ -25,19 +23,17 @@
 
 ### DevOps
 - Docker / Docker Compose
-- GitHub Actions
+- GitHub Actions 자동 배포
 
 ### Authentication
 - OAuth2.0
 - JWT (Refresh Token Rotation)
 
-### Monitoring & Performance
+### Monitoring
 - Prometheus
 - Grafana
 - Loki & Promtail
 - MDC Logging
-
----
 
 ## 🔬 개인 프로젝트를 통해 적용해본 기술
 
@@ -59,8 +55,6 @@
 | 시스템 모니터링 | Grafana & Loki & Promtail | 실시간 로그 수집 및 시각화 |
 | 리소스 모니터링 | Prometheus | CPU, 메모리, 디스크 사용량 추적 |
 
----
-
 ## 🔧 운영성 강화
 
 ### 🔍 장애 대응
@@ -81,18 +75,16 @@
 
 ## 💡 WHAT MAKES ME DIFFERENT
 
-### 보안 / 운영성 / 성능까지 고민하는 개발자
+### 보안, 운영성, 성능까지 고민하는 개발자
 
 단순히 기능을 구현하는 것을 넘어, **왜 이 코드가 필요한가?** **어떻게 더 안정적으로 만들 수 있는가?** 를 고민합니다.
 
-토큰 탈취 방지를 위한 RTR, 선착순 이벤트의 동시성 제어, 비동기 메시지 처리를 통한 부하 분산까지 프로젝트에서 마주한 문제를 해결하기 위해 적용한 결과입니다.
-
 ### 장애를 경험하고, 예방하는 마인드셋
 B2B 고객이 에러를 발견해서 연락할 때까지 우리가 몰랐던 경험을 하며,
-**에러를 고객이 발견하기 전에 개발자가 먼저 감지해야 한다**는 중요성을 배웠습니다.
+<br>**에러를 고객이 발견하기 전에 개발자가 먼저 감지해야 한다**는 중요성을 배웠습니다.
 
 고객 신고를 받고 나서 대응하는 것과, 문제가 발생하는 순간 감지해서 대응하는 것은 
-신뢰도와 대응 속도에서 완전히 다릅니다.
+<br>신뢰도와 대응 속도에서 완전히 다릅니다.
 
 다음에 같은 문제가 생기지 않도록 MDC Logging과 Prometheus & Grafana & Loki를 활용해
-**실시간으로 문제를 감지하고 고객이 알기 전에 대응**할 수 있는 모니터링 시스템을 직접 구축했습니다.
+<br>**실시간으로 문제를 감지하고 고객이 알기 전에 대응**할 수 있는 모니터링 시스템을 구현했습니다.
