@@ -1,3 +1,24 @@
+<div align="center">
+
+# 💻 Backend Developer
+
+### 문제를 이해하고, 해결하고, 개선하는 개발자
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Spring+Boot+Backend+Developer;Security+%7C+Operability+%7C+Performance;1+Year+Real-World+Experience;Always+Learning+and+Growing" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🎯 WHO AM I
+
+```typescript
+const developer = {
+    experience: "1년차 백엔드 개발자",
+    mindset: "왜 이 기술을 써야 하는가?",
+    focus: ["보안", "운영성", "성능"],
+    approach: "문제 중심 사고 → 학습 → 실무 적용"
+};
 "토큰 탈취를 막으려면?" → RTR 학습 및 구현
 "선착순 이벤트의 동시성 문제는?" → k6 부하 테스트 + RabbitMQ 분산 처리
 "장애가 발생했다면?" → MDC Logging + Grafana로 추적 및 시각화
@@ -57,3 +78,5 @@ Validation
 장애를 경험하고, 예방하는 방법을 고민합니다
 실무에서 디스크 용량 부족으로 인한 장애를 겪은 후, "사후 대응"이 아닌 "사전 예방"의 중요성을 깨달았습니다.
 이후 Prometheus를 학습하며 시스템 리소스를 모니터링하고, 문제가 발생하기 전에 미리 감지할 수 있는 환경을 구축했습니다.
+
+```
