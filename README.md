@@ -58,7 +58,7 @@
 ## 🔧 운영성 강화
 
 ### 🔍 장애 대응
-- **MDC Logging**: 요청별 추적 ID로 빠른 디버깅
+- **MDC Logging**: 요청별 `trace_id`로 빠른 디버깅
 - **GlobalExceptionHandler**: 통합 예외 처리로 일관된 응답
 
 ### ✅ 품질 보증
