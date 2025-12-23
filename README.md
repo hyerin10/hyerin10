@@ -17,23 +17,20 @@
 
 ### Backend & Framework
 - Spring Boot / Spring Security
-- Java / Kotlin
+- Java
 - RESTful API
 
-### Database & Storage
-- MySQL / PostgreSQL
+### Database
+- PostgreSQL
 - Redis (캐싱 & 분산 락)
-- AWS S3
 
-### DevOps & Tools
+### DevOps
 - Docker / Docker Compose
 - GitHub Actions
-- Kubernetes
 
 ### Authentication
 - OAuth2.0
 - JWT (Refresh Token Rotation)
-- Spring Security
 
 ### Monitoring & Performance
 - Prometheus
@@ -51,7 +48,6 @@
 |---------|---------|------|
 | 토큰 탈취 위험 | RTR 구현 | 재사용 공격 차단 |
 | 사용자 인증 필요 | OAuth2.0 적용 | 안전한 인증 체계 구축 |
-| Monday.com 확장앱 구축 | - | - |
 | 수동 배포의 리스크 | GitHub Actions | 자동 빌드 및 배포 파이프라인 구성 |
 
 ---
@@ -104,8 +100,12 @@
 
 토큰 탈취 방지를 위한 RTR, 선착순 이벤트의 동시성 제어, 비동기 메시지 처리를 통한 성능 최적화까지 모두 실무와 프로젝트에서 마주한 문제를 해결하기 위해 학습하고 적용한 결과입니다.
 
-### 장애를 경험하고, 예방하는 방법을 고민합니다
+### 장애를 경험하고, 예방하는 마인드셋
+B2B 고객이 에러를 발견해서 연락할 때까지 우리가 몰랐던 경험을 하며,
+**에러를 고객이 발견하기 전에 개발자가 먼저 감지해야 한다**는 중요성을 배웠습니다.
 
-실무에서 **디스크 용량 부족으로 인한 장애**를 겪은 후, "사후 대응"이 아닌 **"사전 예방"의 중요성**을 깨달았습니다. 
+고객 신고를 받고 나서 대응하는 것과, 문제가 발생하는 순간 감지해서 대응하는 것은 
+신뢰도와 대응 속도에서 완전히 다릅니다.
 
-이후 Prometheus를 학습하며 시스템 리소스를 모니터링하고, **문제가 발생하기 전에 미리 감지**할 수 있는 환경을 구축했습니다.
+다음에 같은 문제가 생기지 않도록 MDC Logging과 Prometheus & Grafana & Loki를 활용해
+**실시간으로 문제를 감지하고 고객이 알기 전에 대응**할 수 있는 모니터링 시스템을 직접 구축했습니다.
