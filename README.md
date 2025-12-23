@@ -1,24 +1,3 @@
-<div align="center">
-
-# 💻 Backend Developer
-
-### 문제를 이해하고, 해결하고, 개선하는 개발자
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Spring+Boot+Backend+Developer;Security+%7C+Operability+%7C+Performance;1+Year+Real-World+Experience;Always+Learning+and+Growing" alt="Typing SVG" />
-
-</div>
-
----
-
-## 🎯 WHO AM I
-
-```typescript
-const developer = {
-    experience: "1년차 백엔드 개발자",
-    mindset: "왜 이 기술을 써야 하는가?",
-    focus: ["보안", "운영성", "성능"],
-    approach: "문제 중심 사고 → 학습 → 실무 적용"
-};
 "토큰 탈취를 막으려면?" → RTR 학습 및 구현
 "선착순 이벤트의 동시성 문제는?" → k6 부하 테스트 + RabbitMQ 분산 처리
 "장애가 발생했다면?" → MDC Logging + Grafana로 추적 및 시각화
