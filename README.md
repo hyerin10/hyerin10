@@ -55,21 +55,6 @@
 | 시스템 모니터링 | Grafana & Loki & Promtail | 실시간 로그 수집 및 시각화 |
 | 리소스 모니터링 | Prometheus | CPU, 메모리, 디스크 사용량 추적 |
 
-## 🔧 운영성 강화
-
-### 🔍 장애 대응
-- **MDC Logging**: 요청별 `trace_id`로 빠른 디버깅
-- **GlobalExceptionHandler**: 통합 예외 처리로 일관된 응답
-
-### ✅ 품질 보증
-- **테스트 코드**: HTTP 상태 코드별 테스트로 예상치 못한 버그 방지
-- **Validation**: 잘못된 요청 사전 차단
-
-### 📊 모니터링
-- **Grafana & Loki**: 로그 수집 및 시각화
-- **Prometheus**: CPU, 메모리, 디스크 리소스 추적
-- **Promtail**: 로그 자동 수집 및 전송
-
 ## 💡 WHAT MAKES ME DIFFERENT
 
 ### 보안, 운영성, 성능까지 고민하는 개발자
