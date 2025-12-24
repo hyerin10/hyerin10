@@ -50,8 +50,8 @@
 
 | 문제 상황 | 해결 방법 | 결과 |
 |---------|---------|------|
-| 장애 원인 파악 | MDC Logging | 요청별 추적 ID로 디버깅 |
-| 시스템 모니터링 | Grafana & Loki & Promtail | 실시간 로그 수집 및 시각화 |
+| 장애 원인 파악 | MDC Logging | 요청별 `trace_id`로 디버깅 |
+| 로그 모니터링 | Grafana & Loki | 로그 수집 및 시각화 |
 | 리소스 모니터링 | Prometheus | CPU, 메모리, 디스크 사용량 추적 |
 
 ## 💡 WHAT MAKES ME DIFFERENT
