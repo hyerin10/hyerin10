@@ -18,7 +18,7 @@
 
 ### Database
 - PostgreSQL
-- Redis (캐싱 & 분산 락)
+- Redis
 
 ### DevOps
 - Docker / Docker Compose
