@@ -12,26 +12,22 @@
 ## 🛠️ TECH STACK
 
 ### Framework & Language
-- Spring Boot / Spring Security / JPA
 - Java
+- Spring Boot / JPA
 - RESTful API
 
 ### Database
 - PostgreSQL
 - Redis
 
-### DevOps
+### CI/CD
 - Docker / Docker Compose
 - GitHub Actions 자동 배포
-
-### Authentication
-- OAuth2.0
-- JWT (Refresh Token Rotation)
 
 ### Monitoring
 - Prometheus
 - Grafana
-- Loki & Promtail
+- Loki
 - MDC Logging
 
 ## 🔬 개인 프로젝트를 통해 적용해본 기술
