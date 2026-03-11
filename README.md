@@ -1,11 +1,5 @@
 # 🚀 Backend Developer Hyerin
 ### 안정적인 운영, 보안, 성능을 함께 고민하는 개발자
-### Craftverse Blog
-[![](craftverse_blog.png)](https://craftverse.co.kr)
-
-* **URL:** [https://craftverse.co.kr](https://craftverse.co.kr)
-* **내용:** PPT 슬라이드 뷰어를 활용한 지식 공유 플랫폼
-
 ## 🛠️ TECH STACK
 ### Framework & Language
 - Java
@@ -25,3 +19,7 @@
 - Grafana
 - Loki
 - MDC Logging
+
+* **URL:** [https://craftverse.co.kr](https://craftverse.co.kr)
+* **내용:** PPT 슬라이드 뷰어를 활용한 지식 공유 플랫폼
+[![](craftverse_blog.png)](https://craftverse.co.kr)
