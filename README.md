@@ -20,6 +20,7 @@
 - Loki
 - MDC Logging
 
-* **URL:** [https://craftverse.co.kr](https://craftverse.co.kr)
-* **내용:** PPT 슬라이드 뷰어를 활용한 지식 공유 플랫폼
+
+### PPT 슬라이드 뷰어를 활용한 지식 공유 플랫폼
+## **URL:** [https://craftverse.co.kr](https://craftverse.co.kr)
 [![](craftverse_blog.png)](https://craftverse.co.kr)
